@@ -189,8 +189,8 @@ input {
   border-width: 1px;
   border-color: #f6f6fb;
   border-radius: 10px;
-  box-shadow: 0 2px 8px 0 rgba(48, 44, 255, 0.01),
-    0 1px 3px 0 rgba(7, 7, 33, 0.06);
+  box-shadow: 0 8px 16px 0 rgba(17, 10, 99, 0.07),
+    0 12px 22px 0 rgba(128, 118, 247, 0.07);
   transition: border-color 350ms ease, color 350ms ease;
   color: #070721;
   font-size: 16px;
