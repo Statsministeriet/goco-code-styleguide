@@ -194,6 +194,10 @@ input:focus {
   outline-style: none;
 }
 
+input.small{
+  height: 42px;
+}
+
 .highlight {
   margin-top: 0px;
   margin-bottom: 80px;
